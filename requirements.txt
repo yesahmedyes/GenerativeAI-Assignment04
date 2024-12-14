@@ -1,0 +1,7 @@
+python-dotenv
+pinecone-client[grpc]
+sentence-transformers
+langchain-groq
+langchain-community
+langgraph
+gradio
